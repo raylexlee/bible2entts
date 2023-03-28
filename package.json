@@ -1,0 +1,16 @@
+{
+  "name": "seego2zhtts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getbwsk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "chrome-remote-interface": "^0.32.1",
+    "moment": "^2.29.4"
+  }
+}
