@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-for i in $(awk '{print $2;}' < pairs.txt)                                                                           ─╯
+for i in $(awk '{print $2;}' < pairs.txt)                                                                    
 do
 ./getchapters.sh $i
 done > NumberOfChapters.txt
